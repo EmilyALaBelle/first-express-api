@@ -1,0 +1,3 @@
+# ignore node modules insatlled from npm 
+node_modules
+# We have no secrets to hide
